@@ -26,8 +26,8 @@ Here’s a preview of the app:
 Clone this repo and install the required packages inside a virtual environment:
 
 ```bash
-git clone https://github.com/your-username/flower-classification-app.git
-cd flower-classification-app
+git clone [https://github.com/rreda11/NTI-Computer-Vision.git]
+cd 'task 6'
 
 python -m venv venv
 source venv/bin/activate   # On Linux/Mac
