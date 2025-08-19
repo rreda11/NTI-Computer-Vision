@@ -8,7 +8,6 @@ Upload a flower photo and the model will predict which type it belongs to.
 ## 🚀 Features
 - Upload any flower image (`.jpg`, `.jpeg`, `.png`).
 - Model predicts the flower type with confidence score.
-- Cute, girly pastel-themed UI 🌷✨.
 - Built with **TensorFlow** and **Streamlit**.
 
 ---
