@@ -16,9 +16,9 @@ Upload a flower photo and the model will predict which type it belongs to.
 ## 🖼️ Demo
 Here’s a preview of the app:
 
-![Flower App Screenshot](images/app.png)
+![Flower App Screenshot](app.png)
 
-*(Replace `images/demo.png` with the actual path to your screenshot inside the repo.)*
+
 
 ---
 
