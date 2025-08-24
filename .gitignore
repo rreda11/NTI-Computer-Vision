@@ -1,3 +1,6 @@
 task 5/flowers/
 .venv/
 *.keras
+.env
+My-First-Project-2/
+*.pt
